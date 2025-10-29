@@ -1,0 +1,34 @@
+col_label,date,time_str,start_dt,sport,league_key,tag,channel,channel_num,title,fav_row
+Tuesday 10/28,2025-10-28,8:00pm,2025-10-28 20:00:00,NBA,basketball/nba,(NBA),NBC,4,New York Knicks at Milwaukee Bucks,
+Tuesday 10/28,2025-10-28,11:00pm,2025-10-28 23:00:00,NBA,basketball/nba,(NBA),NBC,4,LA Clippers at Golden State Warriors,
+Tuesday 10/28,2025-10-28,8:00pm,2025-10-28 20:00:00,MLB,baseball/mlb,(MLB),FOX,6,Toronto Blue Jays at Los Angeles Dodgers,
+Tuesday 10/28,2025-10-28,6:00pm,2025-10-28 18:00:00,NHL,hockey/nhl,(NHL),ESPN,11,Pittsburgh Penguins at Philadelphia Flyers,
+Tuesday 10/28,2025-10-28,8:30pm,2025-10-28 20:30:00,NHL,hockey/nhl,(NHL),ESPN,11,Washington Capitals at Dallas Stars,
+Tuesday 10/28,2025-10-28,11:00pm,2025-10-28 23:00:00,NHL,hockey/nhl,(NHL),ESPN,11,Los Angeles Kings at San Jose Sharks,
+Tuesday 10/28,2025-10-28,8:00pm,2025-10-28 20:00:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,UTEP Miners at Kennesaw State Owls,
+Tuesday 10/28,2025-10-28,8:00pm,2025-10-28 20:00:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,James Madison Dukes at Texas State Bobcats,
+Tuesday 10/28,2025-10-28,6:45pm,2025-10-28 18:45:00,MLS,soccer/usa.1,(Soccer - MLS),FS1,15,New York City FC at Charlotte FC,
+Tuesday 10/28,2025-10-28,7:15pm,2025-10-28 19:15:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,57,New York Islanders at Boston Bruins,pro
+Wednesday 10/29,2025-10-29,8:00pm,2025-10-29 20:00:00,MLB,baseball/mlb,(MLB),FOX,6,Toronto Blue Jays at Los Angeles Dodgers,
+Wednesday 10/29,2025-10-29,7:00pm,2025-10-29 19:00:00,NBA,basketball/nba,(NBA),ESPN,11,Cleveland Cavaliers at Boston Celtics,
+Wednesday 10/29,2025-10-29,9:30pm,2025-10-29 21:30:00,NBA,basketball/nba,(NBA),ESPN,11,Los Angeles Lakers at Minnesota Timberwolves,
+Wednesday 10/29,2025-10-29,8:00pm,2025-10-29 20:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),ESPNU,13,(W) #13 TCU Horned Frogs at #6 Arizona State Sun Devils,
+Wednesday 10/29,2025-10-29,7:30pm,2025-10-29 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Jacksonville State Gamecocks at Middle Tennessee Blue Raiders,
+Wednesday 10/29,2025-10-29,8:00pm,2025-10-29 20:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),Big Ten,47,(W) Illinois Fighting Illini at #20 Minnesota Golden Gophers,
+Wednesday 10/29,2025-10-29,7:00pm,2025-10-29 19:00:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,58,Cleveland Cavaliers at Boston Celtics,pro
+Thursday 10/30,2025-10-30,7:30pm,2025-10-30 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Tulane Green Wave at UTSA Roadrunners,
+Thursday 10/30,2025-10-30,10:00pm,2025-10-30 22:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),ESPNU,13,(W) Loyola Marymount Lions at Pepperdine Waves,
+Thursday 10/30,2025-10-30,7:30pm,2025-10-30 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Marshall Thundering Herd at Coastal Carolina Chanticleers,
+Thursday 10/30,2025-10-30,7:00pm,2025-10-30 19:00:00,NHL,hockey/nhl,(NHL),TNT,19,Dallas Stars at Tampa Bay Lightning,
+Thursday 10/30,2025-10-30,6:30pm,2025-10-30 18:30:00,NCAA Hockey,hockey/mens-college-hockey,(NCAA Hockey),Big Ten,47,#4 Penn State Nittany Lions at #17 Ohio State Buckeyes,
+Thursday 10/30,2025-10-30,9:00pm,2025-10-30 21:00:00,NCAA Hockey,hockey/mens-college-hockey,(NCAA Hockey),Big Ten,47,#18 Minnesota Golden Gophers at #14 Wisconsin Badgers,
+Thursday 10/30,2025-10-30,7:00pm,2025-10-30 19:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,57,Buffalo Sabres at Boston Bruins,pro
+Friday 10/31,2025-10-31,8:00pm,2025-10-31 20:00:00,MLB,baseball/mlb,(MLB),FOX,6,Los Angeles Dodgers at Toronto Blue Jays,
+Friday 10/31,2025-10-31,7:30pm,2025-10-31 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,North Carolina Tar Heels at Syracuse Orange,
+Friday 10/31,2025-10-31,7:00pm,2025-10-31 19:00:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,#25 Memphis Tigers at Rice Owls,
+Friday 10/31,2025-10-31,6:30pm,2025-10-31 18:30:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),Big Ten,47,(W) #19 Penn State Nittany Lions at Michigan Wolverines,
+Friday 10/31,2025-10-31,9:00pm,2025-10-31 21:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),Big Ten,47,(W) #1 Nebraska Cornhuskers at #11 Wisconsin Badgers,
+Friday 10/31,2025-10-31,11:00pm,2025-10-31 23:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),Big Ten,47,(W) Oregon Ducks at Washington Huskies,
+Friday 10/31,2025-10-31,7:00pm,2025-10-31 19:00:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,58,Boston Celtics at Philadelphia 76ers,pro
+Friday 10/31,2025-10-31,7:00pm,2025-10-31 19:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
+ on B1G+",100,(W) #10 Purdue Boilermakers at Michigan State Spartans,school
