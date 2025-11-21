@@ -1,55 +1,78 @@
 col_label,date,time_str,start_dt,sport,league_key,tag,channel,channel_num,title,fav_row
-Monday 11/3,2025-11-03,8:15pm,2025-11-03 20:15:00,NFL,football/nfl,(NFL),ABC,7,Arizona Cardinals at Dallas Cowboys,
-Monday 11/3,2025-11-03,12:00pm,2025-11-03 12:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),ESPN,11,(W) #7 Duke Blue Devils at #16 Baylor Bears,
-Monday 11/3,2025-11-03,8:15pm,2025-11-03 20:15:00,NFL,football/nfl,(NFL),ESPN,11,Arizona Cardinals at Dallas Cowboys,
-Monday 11/3,2025-11-03,2:30pm,2025-11-03 14:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),ESPNU,13,(W) California Golden Bears at #19 Vanderbilt Commodores,
-Monday 11/3,2025-11-03,6:30pm,2025-11-03 18:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,Quinnipiac Bobcats at #5 St. John's Red Storm,
-Monday 11/3,2025-11-03,8:30pm,2025-11-03 20:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,Oakland Golden Grizzlies at #7 Michigan Wolverines,
-Monday 11/3,2025-11-03,10:45pm,2025-11-03 22:45:00,MLS,soccer/usa.1,(Soccer - MLS),FS1,15,Minnesota United FC at Seattle Sounders FC,
-Monday 11/3,2025-11-03,7:00pm,2025-11-03 19:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#3 Florida Gators at #13 Arizona Wildcats,
-Monday 11/3,2025-11-03,9:30pm,2025-11-03 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Villanova Wildcats at #8 BYU Cougars,
-Monday 11/3,2025-11-03,7:00pm,2025-11-03 19:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#3 Florida Gators at #13 Arizona Wildcats,
-Monday 11/3,2025-11-03,9:30pm,2025-11-03 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Villanova Wildcats at #8 BYU Cougars,
-Monday 11/3,2025-11-03,8:30pm,2025-11-03 20:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Jackson State Tigers at #17 Illinois Fighting Illini,
-Monday 11/3,2025-11-03,10:30pm,2025-11-03 22:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Eastern Washington Eagles at #12 UCLA Bruins,
-Monday 11/3,2025-11-03,7:30pm,2025-11-03 19:30:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,58,Utah Jazz at Boston Celtics,pro
-Monday 11/3,2025-11-03,7:00pm,2025-11-03 19:00:00,Michigan State,basketball/mens-college-basketball,(M CBB),"MSU 
- on B1G+",100,Colgate Raiders at #22 Michigan State Spartans,school
-Tuesday 11/4,2025-11-04,8:00pm,2025-11-04 20:00:00,NBA,basketball/nba,(NBA),NBC,4,Orlando Magic at Atlanta Hawks,
-Tuesday 11/4,2025-11-04,11:00pm,2025-11-04 23:00:00,NBA,basketball/nba,(NBA),NBC,4,Oklahoma City Thunder at LA Clippers,
-Tuesday 11/4,2025-11-04,5:30pm,2025-11-04 17:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),ESPN,11,(W) #20 Louisville Cardinals at #1 UConn Huskies,
-Tuesday 11/4,2025-11-04,8:45pm,2025-11-04 20:45:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,Texas Longhorns at #6 Duke Blue Devils,
-Tuesday 11/4,2025-11-04,4:00pm,2025-11-04 16:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),ESPN2,14,(W) #8 Tennessee Lady Volunteers at #9 NC State Wolfpack,
-Tuesday 11/4,2025-11-04,7:00pm,2025-11-04 19:00:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Miami (OH) RedHawks at Ohio Bobcats,
-Tuesday 11/4,2025-11-04,7:00pm,2025-11-04 19:00:00,NHL,hockey/nhl,(NHL),TNT,19,Carolina Hurricanes at New York Rangers,
-Tuesday 11/4,2025-11-04,9:30pm,2025-11-04 21:30:00,NHL,hockey/nhl,(NHL),TNT,19,Tampa Bay Lightning at Colorado Avalanche,
-Tuesday 11/4,2025-11-04,7:00pm,2025-11-04 19:00:00,NHL,hockey/nhl,(NHL),truTV,20,Carolina Hurricanes at New York Rangers,
-Tuesday 11/4,2025-11-04,9:30pm,2025-11-04 21:30:00,NHL,hockey/nhl,(NHL),truTV,20,Tampa Bay Lightning at Colorado Avalanche,
-Tuesday 11/4,2025-11-04,6:30pm,2025-11-04 18:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Evansville Purple Aces at #1 Purdue Boilermakers,
-Tuesday 11/4,2025-11-04,7:00pm,2025-11-04 19:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,57,Boston Bruins at New York Islanders,pro
-Tuesday 11/4,2025-11-04,6:30pm,2025-11-04 18:30:00,Michigan State,basketball/womens-college-basketball,(W CBB),"MSU 
- on B1G+",100,(W) Mercyhurst Lakers at #23 Michigan State Spartans,school
-Wednesday 11/5,2025-11-05,7:30pm,2025-11-05 19:30:00,NBA,basketball/nba,(NBA),ESPN,11,Minnesota Timberwolves at New York Knicks,
-Wednesday 11/5,2025-11-05,10:00pm,2025-11-05 22:00:00,NBA,basketball/nba,(NBA),ESPN,11,San Antonio Spurs at Los Angeles Lakers,
-Wednesday 11/5,2025-11-05,7:00pm,2025-11-05 19:00:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,Kent State Golden Flashes at Ball State Cardinals,
-Wednesday 11/5,2025-11-05,7:00pm,2025-11-05 19:00:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Northern Illinois Huskies at Toledo Rockets,
-Wednesday 11/5,2025-11-05,12:00am,2025-11-05 00:00:00,Volleyball,volleyball/womens-college-volleyball,(Volleyball),FS1,15,(W) #20 Minnesota Golden Gophers at #11 Wisconsin Badgers,
-Wednesday 11/5,2025-11-05,7:30pm,2025-11-05 19:30:00,NHL,hockey/nhl,(NHL),TNT,19,St. Louis Blues at Washington Capitals,
-Wednesday 11/5,2025-11-05,7:30pm,2025-11-05 19:30:00,NHL,hockey/nhl,(NHL),truTV,20,St. Louis Blues at Washington Capitals,
-Wednesday 11/5,2025-11-05,7:30pm,2025-11-05 19:30:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,58,Washington Wizards at Boston Celtics,pro
-Thursday 11/6,2025-11-06,7:30pm,2025-11-06 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,UTSA Roadrunners at South Florida Bulls,
-Thursday 11/6,2025-11-06,7:30pm,2025-11-06 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Georgia Southern Eagles at App State Mountaineers,
-Thursday 11/6,2025-11-06,7:00pm,2025-11-06 19:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,57,Ottawa Senators at Boston Bruins,pro
-Friday 11/7,2025-11-07,9:00pm,2025-11-07 21:00:00,NCAA FB,football/college-football,(FBS FB),FOX,6,Northwestern Wildcats at #23 USC Trojans,
-Friday 11/7,2025-11-07,7:00pm,2025-11-07 19:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,#19 Kansas Jayhawks at #25 North Carolina Tar Heels,
-Friday 11/7,2025-11-07,9:00pm,2025-11-07 21:00:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Tulane Green Wave at #25 Memphis Tigers,
-Friday 11/7,2025-11-07,8:00pm,2025-11-07 20:00:00,NCAA FB,football/college-football,(FBS FB),FS1,15,#22 Houston Cougars at UCF Knights,
-Friday 11/7,2025-11-07,9:00pm,2025-11-07 21:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Utah Tech Trailblazers at #13 Arizona Wildcats,
-Friday 11/7,2025-11-07,9:00pm,2025-11-07 21:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Utah Tech Trailblazers at #13 Arizona Wildcats,
-Friday 11/7,2025-11-07,8:30pm,2025-11-07 20:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Northern Illinois Huskies at #24 Wisconsin Badgers,
-Friday 11/7,2025-11-07,10:30pm,2025-11-07 22:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Pepperdine Waves at #12 UCLA Bruins,
-Friday 11/7,2025-11-07,7:00pm,2025-11-07 19:00:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,58,Boston Celtics at Orlando Magic,pro
-Friday 11/7,2025-11-07,12:00am,2025-11-07 00:00:00,Michigan State,hockey/mens-college-hockey,(Michigan State),"MSU 
- on B1G+",100,#4 Penn State Nittany Lions at #1 Michigan State Spartans,school
-Friday 11/7,2025-11-07,10:00pm,2025-11-07 22:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
- on B1G+",100,(W) Michigan State Spartans at Washington Huskies,school
+Monday 11/24,2025-11-24,8:15pm,2025-11-24 20:15:00,NFL,football/nfl,(NFL),ESPN,11,Carolina Panthers at San Francisco 49ers,
+Monday 11/24,2025-11-24,2:30pm,2025-11-24 14:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN2,14,Seton Hall Pirates at #25 NC State Wolfpack,
+Monday 11/24,2025-11-24,1:00pm,2025-11-24 13:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#20 Tennessee Volunteers at Rutgers Scarlet Knights,
+Monday 11/24,2025-11-24,3:30pm,2025-11-24 15:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Notre Dame Fighting Irish at #24 Kansas Jayhawks,
+Monday 11/24,2025-11-24,6:00pm,2025-11-24 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Syracuse Orange at #2 Houston Cougars,
+Monday 11/24,2025-11-24,9:30pm,2025-11-24 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#13 Gonzaga Bulldogs at #11 Alabama Crimson Tide,
+Monday 11/24,2025-11-24,4:30pm,2025-11-24 16:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#14 St. John's Red Storm at #16 Iowa State Cyclones,
+Monday 11/24,2025-11-24,8:00pm,2025-11-24 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Oregon Ducks at #22 Auburn Tigers,
+Monday 11/24,2025-11-24,10:30pm,2025-11-24 22:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,San Diego State Aztecs at #7 Michigan Wolverines,
+Monday 11/24,2025-11-24,7:00pm,2025-11-24 19:00:00,NBA,basketball/nba,(NBA),FanDuel,46,Detroit Pistons at Indiana Pacers,
+Monday 11/24,2025-11-24,8:00pm,2025-11-24 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,UT Rio Grande Valley Vaqueros at #8 Illinois Fighting Illini,
+Tuesday 11/25,2025-11-25,8:00pm,2025-11-25 20:00:00,NBA,basketball/nba,(NBA),NBC,4,Orlando Magic at Philadelphia 76ers,
+Tuesday 11/25,2025-11-25,11:00pm,2025-11-25 23:00:00,NBA,basketball/nba,(NBA),NBC,4,LA Clippers at Los Angeles Lakers,
+Tuesday 11/25,2025-11-25,10:00pm,2025-11-25 22:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,#19 UCLA Bruins at California Golden Bears,
+Tuesday 11/25,2025-11-25,4:30pm,2025-11-25 16:30:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,Bowling Green Falcons at Massachusetts Minutemen,
+Tuesday 11/25,2025-11-25,7:30pm,2025-11-25 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Western Michigan Broncos at Eastern Michigan Eagles,
+Tuesday 11/25,2025-11-25,6:00pm,2025-11-25 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,St. Bonaventure Bonnies at #18 North Carolina Tar Heels,
+Tuesday 11/25,2025-11-25,3:30pm,2025-11-25 15:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Syracuse Orange at #24 Kansas Jayhawks,
+Tuesday 11/25,2025-11-25,6:00pm,2025-11-25 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#20 Tennessee Volunteers at #2 Houston Cougars,
+Tuesday 11/25,2025-11-25,8:30pm,2025-11-25 20:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#7 Michigan Wolverines at #22 Auburn Tigers,
+Tuesday 11/25,2025-11-25,2:00pm,2025-11-25 14:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#16 Iowa State Cyclones at Creighton Bluejays,
+Tuesday 11/25,2025-11-25,5:00pm,2025-11-25 17:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#14 St. John's Red Storm at Baylor Bears,
+Tuesday 11/25,2025-11-25,9:30pm,2025-11-25 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Maryland Terrapins at #13 Gonzaga Bulldogs,
+Tuesday 11/25,2025-11-25,11:59pm,2025-11-25 23:59:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,UNLV Rebels at #11 Alabama Crimson Tide,
+Tuesday 11/25,2025-11-25,9:00pm,2025-11-25 21:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Southern Jaguars at #25 Washington Huskies,
+Tuesday 11/25,2025-11-25,10:00pm,2025-11-25 22:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Tennessee Tech Golden Eagles at #11 USC Trojans,
+Tuesday 11/25,2025-11-25,1:00pm,2025-11-25 13:00:00,Michigan State,basketball/mens-college-basketball,(M CBB),"MSU 
+ on B1G+",100,#17 Michigan State Spartans at East Carolina Pirates,school
+Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,NBA,basketball/nba,(NBA),ESPN,11,Detroit Pistons at Boston Celtics,
+Wednesday 11/26,2025-11-26,7:30pm,2025-11-26 19:30:00,NBA,basketball/nba,(NBA),ESPN,11,Minnesota Timberwolves at Oklahoma City Thunder,
+Wednesday 11/26,2025-11-26,10:00pm,2025-11-26 22:00:00,NBA,basketball/nba,(NBA),ESPN,11,Houston Rockets at Golden State Warriors,
+Wednesday 11/26,2025-11-26,2:00pm,2025-11-26 14:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),truTV,20,(W) #4 Texas Longhorns at #3 UCLA Bruins,
+Wednesday 11/26,2025-11-26,4:30pm,2025-11-26 16:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),truTV,20,(W) Duke Blue Devils at #2 South Carolina Gamecocks,
+Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,NBA,basketball/nba,(NBA),FanDuel,46,Detroit Pistons at Boston Celtics,
+Wednesday 11/26,2025-11-26,7:30pm,2025-11-26 19:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Western Illinois Leathernecks at #19 Iowa Hawkeyes,
+Wednesday 11/26,2025-11-26,12:00am,2025-11-26 00:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
+ on B1G+",100,(W) #16 USC Trojans at Michigan State Spartans,school
+Wednesday 11/26,2025-11-26,7:00pm,2025-11-26 19:00:00,Michigan State,hockey/mens-college-hockey,(Michigan State),"MSU 
+ on B1G+",100,Colgate Raiders at #1 Michigan State Spartans,school
+Wednesday 11/26,2025-11-26,7:00pm,2025-11-26 19:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,109,Boston Bruins at New York Islanders,pro
+Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,110,Detroit Pistons at Boston Celtics,pro
+Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,NFL,football/nfl,(NFL),CBS,3,Kansas City Chiefs at Dallas Cowboys,
+Thursday 11/27,2025-11-27,8:00pm,2025-11-27 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),CBS,3,#5 Duke Blue Devils at #21 Arkansas Razorbacks,
+Thursday 11/27,2025-11-27,8:20pm,2025-11-27 20:20:00,NFL,football/nfl,(NFL),NBC,4,Cincinnati Bengals at Baltimore Ravens,
+Thursday 11/27,2025-11-27,1:00pm,2025-11-27 13:00:00,NFL,football/nfl,(NFL),FOX,6,Green Bay Packers at Detroit Lions,
+Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FOX,6,#18 North Carolina Tar Heels at #17 Michigan State Spartans,
+Thursday 11/27,2025-11-27,5:00pm,2025-11-27 17:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,#9 BYU Cougars at Miami Hurricanes,
+Thursday 11/27,2025-11-27,7:30pm,2025-11-27 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Navy Midshipmen at Memphis Tigers,
+Thursday 11/27,2025-11-27,3:00pm,2025-11-27 15:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,TCU Horned Frogs at #10 Florida Gators,
+Thursday 11/27,2025-11-27,5:30pm,2025-11-27 17:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,#23 Wisconsin Badgers at Providence Friars,
+Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,Michigan State,basketball/mens-college-basketball,(M CBB),"MSU 
+ on B1G+",100,#18 North Carolina Tar Heels at #17 Michigan State Spartans,school
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),CBS,3,Iowa Hawkeyes at Nebraska Cornhuskers,
+Friday 11/28,2025-11-28,4:00pm,2025-11-28 16:00:00,NCAA FB,football/college-football,(FBS FB),CBS,3,Boise State Broncos at Utah State Aggies,
+Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NCAA FB,football/college-football,(FBS FB),NBC,4,#2 Indiana Hoosiers at Purdue Boilermakers,
+Friday 11/28,2025-11-28,12:30pm,2025-11-28 12:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FOX,6,#3 UConn Huskies at #8 Illinois Fighting Illini,
+Friday 11/28,2025-11-28,9:00pm,2025-11-28 21:00:00,NCAA FB,football/college-football,(FBS FB),FOX,6,Arizona Wildcats at #25 Arizona State Sun Devils,
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#6 Ole Miss Rebels at Mississippi State Bulldogs,
+Friday 11/28,2025-11-28,3:30pm,2025-11-28 15:30:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#4 Georgia Bulldogs at #16 Georgia Tech Yellow Jackets,
+Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#3 Texas A&M Aggies at #17 Texas Longhorns,
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,#12 Utah Utes at Kansas Jayhawks,
+Friday 11/28,2025-11-28,3:30pm,2025-11-28 15:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Temple Owls at North Texas Mean Green,
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,Ohio Bobcats at Buffalo Bulls,
+Friday 11/28,2025-11-28,3:00pm,2025-11-28 15:00:00,NCAA FB,football/college-football,(FBS FB),FS1,15,Air Force Falcons at Colorado State Rams,
+Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,NHL,hockey/nhl,(NHL),TNT,19,New York Rangers at Boston Bruins,
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NHL,hockey/nhl,(NHL),FanDuel,46,Tampa Bay Lightning at Detroit Red Wings,
+Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NBA,basketball/nba,(NBA),FanDuel,46,Orlando Magic at Detroit Pistons,
+Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Eastern Illinois Panthers at #1 Purdue Boilermakers,
+Friday 11/28,2025-11-28,5:00pm,2025-11-28 17:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Pepperdine Waves at #11 USC Trojans,
+Friday 11/28,2025-11-28,10:00pm,2025-11-28 22:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) UC San Diego Tritons at #25 Washington Huskies,
+Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
+ on B1G+",100,(W) UCLA Bruins at Michigan State Spartans,school
+Friday 11/28,2025-11-28,6:30pm,2025-11-28 18:30:00,Michigan State,basketball/womens-college-basketball,(W CBB),"MSU 
+ on B1G+",100,(W) #22 Michigan State Spartans at Temple Owls,school
+Friday 11/28,2025-11-28,7:00pm,2025-11-28 19:00:00,Michigan State,hockey/mens-college-hockey,(Michigan State),"MSU 
+ on B1G+",100,Colgate Raiders at #1 Michigan State Spartans,school
+Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,109,New York Rangers at Boston Bruins,pro
