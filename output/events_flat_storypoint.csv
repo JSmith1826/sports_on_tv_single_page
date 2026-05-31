@@ -1,4 +1,47 @@
 col_label,date,time_str,start_dt,sport,league_key,tag,channel,channel_num,title,fav_row,source
+Monday 6/1,2026-06-01,12:00pm,2026-06-01 12:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at #7 Tennessee Lady Volunteers,,scoreboard
+Monday 6/1,2026-06-01,2:30pm,2026-06-01 14:30:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
+Monday 6/1,2026-06-01,7:00pm,2026-06-01 19:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at #1 Alabama Crimson Tide,,scoreboard
+Monday 6/1,2026-06-01,8:00pm,2026-06-01 20:00:00,TV Guide,tvguide_aywt,(NHL),ESPN,11,NHL Hockey — Vegas Golden Knights vs. Colorado Avalanche,,tvguide
+Monday 6/1,2026-06-01,9:30pm,2026-06-01 21:30:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
+Monday 6/1,2026-06-01,7:40pm,2026-06-01 19:40:00,MLB,baseball/mlb,(MLB),FS1,15,San Francisco Giants at Milwaukee Brewers,,scoreboard
+Monday 6/1,2026-06-01,8:00pm,2026-06-01 20:00:00,TV Guide,tvguide_aywt,(WNBA),USA,18,Seattle Storm vs. Dallas Wings,,tvguide
+Monday 6/1,2026-06-01,6:40pm,2026-06-01 18:40:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Detroit Tigers at Tampa Bay Rays,,scoreboard
+Monday 6/1,2026-06-01,11:00am,2026-06-01 11:00:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — Charles Schwab Challenge,,tvguide
+Monday 6/1,2026-06-01,6:40pm,2026-06-01 18:40:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Detroit Tigers at Tampa Bay Rays,Detroit Tigers,favorite
+Tuesday 6/2,2026-06-02,8:00pm,2026-06-02 20:00:00,NHL,hockey/nhl,(NHL),ABC,7,Vegas Golden Knights at Carolina Hurricanes,,scoreboard
+Tuesday 6/2,2026-06-02,7:30pm,2026-06-02 19:30:00,TV Guide,tvguide_aywt,(Soccer),FS1,15,"(M) International Friendly
+Ghana vs. Wales",,tvguide
+Tuesday 6/2,2026-06-02,8:00pm,2026-06-02 20:00:00,TV Guide,tvguide_aywt,(NHL),TNT,19,NHL Hockey — Montreal Canadiens vs. Carolina Hurricanes,,tvguide
+Tuesday 6/2,2026-06-02,6:40pm,2026-06-02 18:40:00,MLB,baseball/mlb,(MLB),TBS,21,San Diego Padres at Philadelphia Phillies,,scoreboard
+Tuesday 6/2,2026-06-02,6:40pm,2026-06-02 18:40:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Detroit Tigers at Tampa Bay Rays,,scoreboard
+Tuesday 6/2,2026-06-02,6:45pm,2026-06-02 18:45:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Baltimore Orioles at Boston Red Sox,Boston Red Sox,favorite
+Tuesday 6/2,2026-06-02,6:40pm,2026-06-02 18:40:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Detroit Tigers at Tampa Bay Rays,Detroit Tigers,favorite
+Wednesday 6/3,2026-06-03,8:30pm,2026-06-03 20:30:00,NBA,basketball/nba,(NBA),ABC,7,New York Knicks at San Antonio Spurs,,scoreboard
+Wednesday 6/3,2026-06-03,8:00pm,2026-06-03 20:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
+Wednesday 6/3,2026-06-03,11:30pm,2026-06-03 23:30:00,TV Guide,tvguide_aywt,(Soccer),FS1,15,"(M) International Friendly
+Algeria vs. Netherlands",,tvguide
+Wednesday 6/3,2026-06-03,7:30pm,2026-06-03 19:30:00,TV Guide,tvguide_aywt,(WNBA),USA,18,Toronto Tempo vs. New York Liberty,,tvguide
+Wednesday 6/3,2026-06-03,10:00pm,2026-06-03 22:00:00,TV Guide,tvguide_aywt,(WNBA),USA,18,Phoenix Mercury vs. Seattle Storm,,tvguide
+Wednesday 6/3,2026-06-03,1:10pm,2026-06-03 13:10:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Detroit Tigers at Tampa Bay Rays,,scoreboard
+Wednesday 6/3,2026-06-03,6:45pm,2026-06-03 18:45:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Baltimore Orioles at Boston Red Sox,Boston Red Sox,favorite
+Wednesday 6/3,2026-06-03,1:10pm,2026-06-03 13:10:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Detroit Tigers at Tampa Bay Rays,Detroit Tigers,favorite
+Thursday 6/4,2026-06-04,8:00pm,2026-06-04 20:00:00,NHL,hockey/nhl,(NHL),ABC,7,Vegas Golden Knights at Carolina Hurricanes,,scoreboard
+Thursday 6/4,2026-06-04,8:00pm,2026-06-04 20:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
+Thursday 6/4,2026-06-04,8:00am,2026-06-04 08:00:00,Golf Schedule,golf_smw,(Golf),FS1,15,Andalucia — First Round,,golf_smw
+Thursday 6/4,2026-06-04,8:10pm,2026-06-04 20:10:00,MLB,baseball/mlb,(MLB),FS1,15,Pittsburgh Pirates at Houston Astros,,scoreboard
+Thursday 6/4,2026-06-04,2:00pm,2026-06-04 14:00:00,Golf Schedule,golf_smw,(LPGA),USA,18,2026 U.S. Women's Open — First Round,,golf_smw
+Thursday 6/4,2026-06-04,7:00am,2026-06-04 07:00:00,TV Guide,tvguide_aywt,(DPW),Golf,52,PGA European Tour Golf — KLM Open,,tvguide
+Thursday 6/4,2026-06-04,9:00am,2026-06-04 09:00:00,TV Guide,tvguide_aywt,(KFT),Golf,52,Korn Ferry Tour Golf — BMW Charity Pro-Am,,tvguide
+Thursday 6/4,2026-06-04,2:00pm,2026-06-04 14:00:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
+Thursday 6/4,2026-06-04,7:00pm,2026-06-04 19:00:00,Golf Schedule,golf_smw,(LPGA),Peacock,99,"2026 U.S. Women's Open — First Round , cont'd",,golf_smw
+Thursday 6/4,2026-06-04,1:35pm,2026-06-04 13:35:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Baltimore Orioles at Boston Red Sox,Boston Red Sox,favorite
 Friday 6/5,2026-06-05,8:30pm,2026-06-05 20:30:00,NBA,basketball/nba,(NBA),ABC,7,New York Knicks at San Antonio Spurs,,scoreboard
 Friday 6/5,2026-06-05,8:00pm,2026-06-05 20:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
 Friday 6/5,2026-06-05,8:00am,2026-06-05 08:00:00,Golf Schedule,golf_smw,(Golf),FS1,15,Andalucia — Second Round,,golf_smw
@@ -9,8 +52,10 @@ Friday 6/5,2026-06-05,9:00am,2026-06-05 09:00:00,TV Guide,tvguide_aywt,(KFT),Gol
 Friday 6/5,2026-06-05,2:00pm,2026-06-05 14:00:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
 Friday 6/5,2026-06-05,6:00pm,2026-06-05 18:00:00,TV Guide,tvguide_aywt,(Champions Tour),Golf,52,Champions Tour Golf — American Family Insurance Championship,,tvguide
 Friday 6/5,2026-06-05,7:00pm,2026-06-05 19:00:00,Golf Schedule,golf_smw,(LPGA),Peacock,99,"2026 U.S. Women's Open — Second Round , cont'd",,golf_smw
-Friday 6/5,2026-06-05,7:05pm,2026-06-05 19:05:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
-Friday 6/5,2026-06-05,6:40pm,2026-06-05 18:40:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
+Friday 6/5,2026-06-05,7:05pm,2026-06-05 19:05:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Friday 6/5,2026-06-05,6:40pm,2026-06-05 18:40:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
 Saturday 6/6,2026-06-06,2:30pm,2026-06-06 14:30:00,TV Guide,tvguide_aywt,(PGA Tour),CBS,3,PGA Tour Golf — the Memorial Tournament,,tvguide
 Saturday 6/6,2026-06-06,7:00pm,2026-06-06 19:00:00,Golf Schedule,golf_smw,(LPGA),NBC,4,2026 U.S. Women's Open — Third Round Main Window,,golf_smw
 Saturday 6/6,2026-06-06,7:35pm,2026-06-06 19:35:00,MLB,baseball/mlb,(MLB),FOX,6,Boston Red Sox at New York Yankees,,scoreboard
@@ -29,8 +74,10 @@ Saturday 6/6,2026-06-06,7:00am,2026-06-06 07:00:00,TV Guide,tvguide_aywt,(DPW),G
 Saturday 6/6,2026-06-06,12:30pm,2026-06-06 12:30:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
 Saturday 6/6,2026-06-06,2:30pm,2026-06-06 14:30:00,TV Guide,tvguide_aywt,(Champions Tour),Golf,52,Champions Tour Golf — American Family Insurance Championship,,tvguide
 Saturday 6/6,2026-06-06,5:00pm,2026-06-06 17:00:00,TV Guide,tvguide_aywt,(KFT),Golf,52,Korn Ferry Tour Golf — BMW Charity Pro-Am,,tvguide
-Saturday 6/6,2026-06-06,7:35pm,2026-06-06 19:35:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
-Saturday 6/6,2026-06-06,1:10pm,2026-06-06 13:10:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
+Saturday 6/6,2026-06-06,7:35pm,2026-06-06 19:35:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Saturday 6/6,2026-06-06,1:10pm,2026-06-06 13:10:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
 Sunday 6/7,2026-06-07,2:30pm,2026-06-07 14:30:00,TV Guide,tvguide_aywt,(PGA Tour),CBS,3,PGA Tour Golf — the Memorial Tournament,,tvguide
 Sunday 6/7,2026-06-07,5:00pm,2026-06-07 17:00:00,Golf Schedule,golf_smw,(LPGA),NBC,4,2026 U.S. Women's Open — Final Round Main Window,,golf_smw
 Sunday 6/7,2026-06-07,8:00pm,2026-06-07 20:00:00,TV Guide,tvguide_aywt,(MLB),NBC,4,MLB Baseball — San Francisco Giants vs. Chicago Cubs,,tvguide
@@ -46,5 +93,7 @@ Sunday 6/7,2026-06-07,5:00pm,2026-06-07 17:00:00,TV Guide,tvguide_aywt,(KFT),Gol
 Sunday 6/7,2026-06-07,3:00pm,2026-06-07 15:00:00,Golf Schedule,golf_smw,(LPGA),Peacock,99,2026 U.S. Women's Open — Final Round Lead-In,,golf_smw
 Sunday 6/7,2026-06-07,3:15pm,2026-06-07 15:15:00,MLB,baseball/mlb,(MLB),Peacock,99,Washington Nationals at Arizona Diamondbacks,,scoreboard
 Sunday 6/7,2026-06-07,8:30pm,2026-06-07 20:30:00,MLB,baseball/mlb,(MLB),Peacock,99,San Francisco Giants at Chicago Cubs,,scoreboard
-Sunday 6/7,2026-06-07,1:35pm,2026-06-07 13:35:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
-Sunday 6/7,2026-06-07,1:40pm,2026-06-07 13:40:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
+Sunday 6/7,2026-06-07,1:35pm,2026-06-07 13:35:00,Boston Red Sox,baseball/mlb,(MLB),"Boston
+Red Sox",109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Sunday 6/7,2026-06-07,1:40pm,2026-06-07 13:40:00,Detroit Tigers,baseball/mlb,(MLB),"Detroit
+Tigers",110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
