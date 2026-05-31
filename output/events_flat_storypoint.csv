@@ -1,78 +1,50 @@
-col_label,date,time_str,start_dt,sport,league_key,tag,channel,channel_num,title,fav_row
-Monday 11/24,2025-11-24,8:15pm,2025-11-24 20:15:00,NFL,football/nfl,(NFL),ESPN,11,Carolina Panthers at San Francisco 49ers,
-Monday 11/24,2025-11-24,2:30pm,2025-11-24 14:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN2,14,Seton Hall Pirates at #25 NC State Wolfpack,
-Monday 11/24,2025-11-24,1:00pm,2025-11-24 13:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#20 Tennessee Volunteers at Rutgers Scarlet Knights,
-Monday 11/24,2025-11-24,3:30pm,2025-11-24 15:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Notre Dame Fighting Irish at #24 Kansas Jayhawks,
-Monday 11/24,2025-11-24,6:00pm,2025-11-24 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Syracuse Orange at #2 Houston Cougars,
-Monday 11/24,2025-11-24,9:30pm,2025-11-24 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#13 Gonzaga Bulldogs at #11 Alabama Crimson Tide,
-Monday 11/24,2025-11-24,4:30pm,2025-11-24 16:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#14 St. John's Red Storm at #16 Iowa State Cyclones,
-Monday 11/24,2025-11-24,8:00pm,2025-11-24 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Oregon Ducks at #22 Auburn Tigers,
-Monday 11/24,2025-11-24,10:30pm,2025-11-24 22:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,San Diego State Aztecs at #7 Michigan Wolverines,
-Monday 11/24,2025-11-24,7:00pm,2025-11-24 19:00:00,NBA,basketball/nba,(NBA),FanDuel,46,Detroit Pistons at Indiana Pacers,
-Monday 11/24,2025-11-24,8:00pm,2025-11-24 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,UT Rio Grande Valley Vaqueros at #8 Illinois Fighting Illini,
-Tuesday 11/25,2025-11-25,8:00pm,2025-11-25 20:00:00,NBA,basketball/nba,(NBA),NBC,4,Orlando Magic at Philadelphia 76ers,
-Tuesday 11/25,2025-11-25,11:00pm,2025-11-25 23:00:00,NBA,basketball/nba,(NBA),NBC,4,LA Clippers at Los Angeles Lakers,
-Tuesday 11/25,2025-11-25,10:00pm,2025-11-25 22:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,#19 UCLA Bruins at California Golden Bears,
-Tuesday 11/25,2025-11-25,4:30pm,2025-11-25 16:30:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,Bowling Green Falcons at Massachusetts Minutemen,
-Tuesday 11/25,2025-11-25,7:30pm,2025-11-25 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN2,14,Western Michigan Broncos at Eastern Michigan Eagles,
-Tuesday 11/25,2025-11-25,6:00pm,2025-11-25 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,St. Bonaventure Bonnies at #18 North Carolina Tar Heels,
-Tuesday 11/25,2025-11-25,3:30pm,2025-11-25 15:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,Syracuse Orange at #24 Kansas Jayhawks,
-Tuesday 11/25,2025-11-25,6:00pm,2025-11-25 18:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#20 Tennessee Volunteers at #2 Houston Cougars,
-Tuesday 11/25,2025-11-25,8:30pm,2025-11-25 20:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),TNT,19,#7 Michigan Wolverines at #22 Auburn Tigers,
-Tuesday 11/25,2025-11-25,2:00pm,2025-11-25 14:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#16 Iowa State Cyclones at Creighton Bluejays,
-Tuesday 11/25,2025-11-25,5:00pm,2025-11-25 17:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,#14 St. John's Red Storm at Baylor Bears,
-Tuesday 11/25,2025-11-25,9:30pm,2025-11-25 21:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,Maryland Terrapins at #13 Gonzaga Bulldogs,
-Tuesday 11/25,2025-11-25,11:59pm,2025-11-25 23:59:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),truTV,20,UNLV Rebels at #11 Alabama Crimson Tide,
-Tuesday 11/25,2025-11-25,9:00pm,2025-11-25 21:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Southern Jaguars at #25 Washington Huskies,
-Tuesday 11/25,2025-11-25,10:00pm,2025-11-25 22:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Tennessee Tech Golden Eagles at #11 USC Trojans,
-Tuesday 11/25,2025-11-25,1:00pm,2025-11-25 13:00:00,Michigan State,basketball/mens-college-basketball,(M CBB),"MSU 
- on B1G+",100,#17 Michigan State Spartans at East Carolina Pirates,school
-Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,NBA,basketball/nba,(NBA),ESPN,11,Detroit Pistons at Boston Celtics,
-Wednesday 11/26,2025-11-26,7:30pm,2025-11-26 19:30:00,NBA,basketball/nba,(NBA),ESPN,11,Minnesota Timberwolves at Oklahoma City Thunder,
-Wednesday 11/26,2025-11-26,10:00pm,2025-11-26 22:00:00,NBA,basketball/nba,(NBA),ESPN,11,Houston Rockets at Golden State Warriors,
-Wednesday 11/26,2025-11-26,2:00pm,2025-11-26 14:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),truTV,20,(W) #4 Texas Longhorns at #3 UCLA Bruins,
-Wednesday 11/26,2025-11-26,4:30pm,2025-11-26 16:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),truTV,20,(W) Duke Blue Devils at #2 South Carolina Gamecocks,
-Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,NBA,basketball/nba,(NBA),FanDuel,46,Detroit Pistons at Boston Celtics,
-Wednesday 11/26,2025-11-26,7:30pm,2025-11-26 19:30:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Western Illinois Leathernecks at #19 Iowa Hawkeyes,
-Wednesday 11/26,2025-11-26,12:00am,2025-11-26 00:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
- on B1G+",100,(W) #16 USC Trojans at Michigan State Spartans,school
-Wednesday 11/26,2025-11-26,7:00pm,2025-11-26 19:00:00,Michigan State,hockey/mens-college-hockey,(Michigan State),"MSU 
- on B1G+",100,Colgate Raiders at #1 Michigan State Spartans,school
-Wednesday 11/26,2025-11-26,7:00pm,2025-11-26 19:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,109,Boston Bruins at New York Islanders,pro
-Wednesday 11/26,2025-11-26,5:00pm,2025-11-26 17:00:00,Boston Celtics,basketball/nba,(NBA),Boston Celtics,110,Detroit Pistons at Boston Celtics,pro
-Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,NFL,football/nfl,(NFL),CBS,3,Kansas City Chiefs at Dallas Cowboys,
-Thursday 11/27,2025-11-27,8:00pm,2025-11-27 20:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),CBS,3,#5 Duke Blue Devils at #21 Arkansas Razorbacks,
-Thursday 11/27,2025-11-27,8:20pm,2025-11-27 20:20:00,NFL,football/nfl,(NFL),NBC,4,Cincinnati Bengals at Baltimore Ravens,
-Thursday 11/27,2025-11-27,1:00pm,2025-11-27 13:00:00,NFL,football/nfl,(NFL),FOX,6,Green Bay Packers at Detroit Lions,
-Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FOX,6,#18 North Carolina Tar Heels at #17 Michigan State Spartans,
-Thursday 11/27,2025-11-27,5:00pm,2025-11-27 17:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),ESPN,11,#9 BYU Cougars at Miami Hurricanes,
-Thursday 11/27,2025-11-27,7:30pm,2025-11-27 19:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Navy Midshipmen at Memphis Tigers,
-Thursday 11/27,2025-11-27,3:00pm,2025-11-27 15:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,TCU Horned Frogs at #10 Florida Gators,
-Thursday 11/27,2025-11-27,5:30pm,2025-11-27 17:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FS1,15,#23 Wisconsin Badgers at Providence Friars,
-Thursday 11/27,2025-11-27,4:30pm,2025-11-27 16:30:00,Michigan State,basketball/mens-college-basketball,(M CBB),"MSU 
- on B1G+",100,#18 North Carolina Tar Heels at #17 Michigan State Spartans,school
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),CBS,3,Iowa Hawkeyes at Nebraska Cornhuskers,
-Friday 11/28,2025-11-28,4:00pm,2025-11-28 16:00:00,NCAA FB,football/college-football,(FBS FB),CBS,3,Boise State Broncos at Utah State Aggies,
-Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NCAA FB,football/college-football,(FBS FB),NBC,4,#2 Indiana Hoosiers at Purdue Boilermakers,
-Friday 11/28,2025-11-28,12:30pm,2025-11-28 12:30:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),FOX,6,#3 UConn Huskies at #8 Illinois Fighting Illini,
-Friday 11/28,2025-11-28,9:00pm,2025-11-28 21:00:00,NCAA FB,football/college-football,(FBS FB),FOX,6,Arizona Wildcats at #25 Arizona State Sun Devils,
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#6 Ole Miss Rebels at Mississippi State Bulldogs,
-Friday 11/28,2025-11-28,3:30pm,2025-11-28 15:30:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#4 Georgia Bulldogs at #16 Georgia Tech Yellow Jackets,
-Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NCAA FB,football/college-football,(FBS FB),ABC,7,#3 Texas A&M Aggies at #17 Texas Longhorns,
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,#12 Utah Utes at Kansas Jayhawks,
-Friday 11/28,2025-11-28,3:30pm,2025-11-28 15:30:00,NCAA FB,football/college-football,(FBS FB),ESPN,11,Temple Owls at North Texas Mean Green,
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA FB,football/college-football,(FBS FB),ESPNU,13,Ohio Bobcats at Buffalo Bulls,
-Friday 11/28,2025-11-28,3:00pm,2025-11-28 15:00:00,NCAA FB,football/college-football,(FBS FB),FS1,15,Air Force Falcons at Colorado State Rams,
-Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,NHL,hockey/nhl,(NHL),TNT,19,New York Rangers at Boston Bruins,
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NHL,hockey/nhl,(NHL),FanDuel,46,Tampa Bay Lightning at Detroit Red Wings,
-Friday 11/28,2025-11-28,7:30pm,2025-11-28 19:30:00,NBA,basketball/nba,(NBA),FanDuel,46,Orlando Magic at Detroit Pistons,
-Friday 11/28,2025-11-28,12:00pm,2025-11-28 12:00:00,NCAA BB (M),basketball/mens-college-basketball,(M CBB),Big Ten,47,Eastern Illinois Panthers at #1 Purdue Boilermakers,
-Friday 11/28,2025-11-28,5:00pm,2025-11-28 17:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) Pepperdine Waves at #11 USC Trojans,
-Friday 11/28,2025-11-28,10:00pm,2025-11-28 22:00:00,NCAA BB (W),basketball/womens-college-basketball,(W CBB),B1G+ APP,99,(W) UC San Diego Tritons at #25 Washington Huskies,
-Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,Michigan State,volleyball/womens-college-volleyball,(Michigan State),"MSU 
- on B1G+",100,(W) UCLA Bruins at Michigan State Spartans,school
-Friday 11/28,2025-11-28,6:30pm,2025-11-28 18:30:00,Michigan State,basketball/womens-college-basketball,(W CBB),"MSU 
- on B1G+",100,(W) #22 Michigan State Spartans at Temple Owls,school
-Friday 11/28,2025-11-28,7:00pm,2025-11-28 19:00:00,Michigan State,hockey/mens-college-hockey,(Michigan State),"MSU 
- on B1G+",100,Colgate Raiders at #1 Michigan State Spartans,school
-Friday 11/28,2025-11-28,1:00pm,2025-11-28 13:00:00,Boston Bruins,hockey/nhl,(NHL),Boston Bruins,109,New York Rangers at Boston Bruins,pro
+col_label,date,time_str,start_dt,sport,league_key,tag,channel,channel_num,title,fav_row,source
+Friday 6/5,2026-06-05,8:30pm,2026-06-05 20:30:00,NBA,basketball/nba,(NBA),ABC,7,New York Knicks at San Antonio Spurs,,scoreboard
+Friday 6/5,2026-06-05,8:00pm,2026-06-05 20:00:00,NCAA Softball,baseball/college-softball,(Softball),ESPN,11,(W) TBD at TBD,,scoreboard
+Friday 6/5,2026-06-05,8:00am,2026-06-05 08:00:00,Golf Schedule,golf_smw,(Golf),FS1,15,Andalucia — Second Round,,golf_smw
+Friday 6/5,2026-06-05,2:00pm,2026-06-05 14:00:00,Golf Schedule,golf_smw,(LPGA),USA,18,2026 U.S. Women's Open — Second Round,,golf_smw
+Friday 6/5,2026-06-05,6:40pm,2026-06-05 18:40:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Seattle Mariners at Detroit Tigers,,scoreboard
+Friday 6/5,2026-06-05,7:00am,2026-06-05 07:00:00,TV Guide,tvguide_aywt,(DPW),Golf,52,PGA European Tour Golf — KLM Open,,tvguide
+Friday 6/5,2026-06-05,9:00am,2026-06-05 09:00:00,TV Guide,tvguide_aywt,(KFT),Golf,52,Korn Ferry Tour Golf — BMW Charity Pro-Am,,tvguide
+Friday 6/5,2026-06-05,2:00pm,2026-06-05 14:00:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
+Friday 6/5,2026-06-05,6:00pm,2026-06-05 18:00:00,TV Guide,tvguide_aywt,(Champions Tour),Golf,52,Champions Tour Golf — American Family Insurance Championship,,tvguide
+Friday 6/5,2026-06-05,7:00pm,2026-06-05 19:00:00,Golf Schedule,golf_smw,(LPGA),Peacock,99,"2026 U.S. Women's Open — Second Round , cont'd",,golf_smw
+Friday 6/5,2026-06-05,7:05pm,2026-06-05 19:05:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Friday 6/5,2026-06-05,6:40pm,2026-06-05 18:40:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
+Saturday 6/6,2026-06-06,2:30pm,2026-06-06 14:30:00,TV Guide,tvguide_aywt,(PGA Tour),CBS,3,PGA Tour Golf — the Memorial Tournament,,tvguide
+Saturday 6/6,2026-06-06,7:00pm,2026-06-06 19:00:00,Golf Schedule,golf_smw,(LPGA),NBC,4,2026 U.S. Women's Open — Third Round Main Window,,golf_smw
+Saturday 6/6,2026-06-06,7:35pm,2026-06-06 19:35:00,MLB,baseball/mlb,(MLB),FOX,6,Boston Red Sox at New York Yankees,,scoreboard
+Saturday 6/6,2026-06-06,1:00pm,2026-06-06 13:00:00,TV Guide,tvguide_aywt,(WNBA),ABC,7,Seattle Storm vs. Minnesota Lynx,,tvguide
+Saturday 6/6,2026-06-06,3:00pm,2026-06-06 15:00:00,TV Guide,tvguide_aywt,(WNBA),ABC,7,Golden State Valkyries vs. Las Vegas Aces,,tvguide
+Saturday 6/6,2026-06-06,8:00pm,2026-06-06 20:00:00,NHL,hockey/nhl,(NHL),ABC,7,Carolina Hurricanes at Vegas Golden Knights,,scoreboard
+Saturday 6/6,2026-06-06,12:00pm,2026-06-06 12:00:00,Golf Schedule,golf_smw,(Golf),FS1,15,Andalucia — Third Round,,golf_smw
+Saturday 6/6,2026-06-06,1:30pm,2026-06-06 13:30:00,TV Guide,tvguide_aywt,(Racing),FS1,15,NASCAR Racing — NASCAR Craftsman Truck Series Race at Michigan,,tvguide
+Saturday 6/6,2026-06-06,5:00pm,2026-06-06 17:00:00,Golf Schedule,golf_smw,(LPGA),USA,18,2026 U.S. Women's Open — Third Round Lead-In,,golf_smw
+Saturday 6/6,2026-06-06,2:30pm,2026-06-06 14:30:00,TV Guide,tvguide_aywt,(Soccer),TNT,19,"(M) International Friendly
+Germany vs. United States",,tvguide
+Saturday 6/6,2026-06-06,5:30pm,2026-06-06 17:30:00,TV Guide,tvguide_aywt,(Soccer),TNT,19,"(W) International Friendly
+United States vs. Brazil",,tvguide
+Saturday 6/6,2026-06-06,1:10pm,2026-06-06 13:10:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Seattle Mariners at Detroit Tigers,,scoreboard
+Saturday 6/6,2026-06-06,7:00am,2026-06-06 07:00:00,TV Guide,tvguide_aywt,(DPW),Golf,52,PGA European Tour Golf — KLM Open,,tvguide
+Saturday 6/6,2026-06-06,12:30pm,2026-06-06 12:30:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
+Saturday 6/6,2026-06-06,2:30pm,2026-06-06 14:30:00,TV Guide,tvguide_aywt,(Champions Tour),Golf,52,Champions Tour Golf — American Family Insurance Championship,,tvguide
+Saturday 6/6,2026-06-06,5:00pm,2026-06-06 17:00:00,TV Guide,tvguide_aywt,(KFT),Golf,52,Korn Ferry Tour Golf — BMW Charity Pro-Am,,tvguide
+Saturday 6/6,2026-06-06,7:35pm,2026-06-06 19:35:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Saturday 6/6,2026-06-06,1:10pm,2026-06-06 13:10:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
+Sunday 6/7,2026-06-07,2:30pm,2026-06-07 14:30:00,TV Guide,tvguide_aywt,(PGA Tour),CBS,3,PGA Tour Golf — the Memorial Tournament,,tvguide
+Sunday 6/7,2026-06-07,5:00pm,2026-06-07 17:00:00,Golf Schedule,golf_smw,(LPGA),NBC,4,2026 U.S. Women's Open — Final Round Main Window,,golf_smw
+Sunday 6/7,2026-06-07,8:00pm,2026-06-07 20:00:00,TV Guide,tvguide_aywt,(MLB),NBC,4,MLB Baseball — San Francisco Giants vs. Chicago Cubs,,tvguide
+Sunday 6/7,2026-06-07,8:30pm,2026-06-07 20:30:00,MLB,baseball/mlb,(MLB),NBC,4,San Francisco Giants at Chicago Cubs,,scoreboard
+Sunday 6/7,2026-06-07,12:00pm,2026-06-07 12:00:00,Golf Schedule,golf_smw,(Golf),FS1,15,Andalucia — Final Round,,golf_smw
+Sunday 6/7,2026-06-07,10:00pm,2026-06-07 22:00:00,TV Guide,tvguide_aywt,(Soccer),FS1,15,"(M) International Friendly
+New Zealand vs. England",,tvguide
+Sunday 6/7,2026-06-07,1:40pm,2026-06-07 13:40:00,MLB,baseball/mlb,(MLB),Tigers TV,48,Seattle Mariners at Detroit Tigers,,scoreboard
+Sunday 6/7,2026-06-07,6:30am,2026-06-07 06:30:00,TV Guide,tvguide_aywt,(DPW),Golf,52,PGA European Tour Golf — KLM Open,,tvguide
+Sunday 6/7,2026-06-07,12:30pm,2026-06-07 12:30:00,TV Guide,tvguide_aywt,(PGA Tour),Golf,52,PGA Tour Golf — the Memorial Tournament,,tvguide
+Sunday 6/7,2026-06-07,2:30pm,2026-06-07 14:30:00,TV Guide,tvguide_aywt,(Champions Tour),Golf,52,Champions Tour Golf — American Family Insurance Championship,,tvguide
+Sunday 6/7,2026-06-07,5:00pm,2026-06-07 17:00:00,TV Guide,tvguide_aywt,(KFT),Golf,52,Korn Ferry Tour Golf — BMW Charity Pro-Am,,tvguide
+Sunday 6/7,2026-06-07,3:00pm,2026-06-07 15:00:00,Golf Schedule,golf_smw,(LPGA),Peacock,99,2026 U.S. Women's Open — Final Round Lead-In,,golf_smw
+Sunday 6/7,2026-06-07,3:15pm,2026-06-07 15:15:00,MLB,baseball/mlb,(MLB),Peacock,99,Washington Nationals at Arizona Diamondbacks,,scoreboard
+Sunday 6/7,2026-06-07,8:30pm,2026-06-07 20:30:00,MLB,baseball/mlb,(MLB),Peacock,99,San Francisco Giants at Chicago Cubs,,scoreboard
+Sunday 6/7,2026-06-07,1:35pm,2026-06-07 13:35:00,Boston Red Sox,baseball/mlb,(MLB),Boston Red Sox,109,Boston Red Sox at New York Yankees,Boston Red Sox,favorite
+Sunday 6/7,2026-06-07,1:40pm,2026-06-07 13:40:00,Detroit Tigers,baseball/mlb,(MLB),Detroit Tigers,110,Seattle Mariners at Detroit Tigers,Detroit Tigers,favorite
